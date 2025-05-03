@@ -20,7 +20,7 @@
 → Designed a digital banking transformation strategy for Feenix Bank, focusing on Gen Z engagement, mobile UX, and financial gamification.
 
 ### [FeelWrite](https://github.com/SYLE61/FeelWrite)  
-**Creative journaling tool**  
+**Full-stack web app, creative journaling tool**  
 → A machine-learning-powered app that analyzes journal entries to generate mood-based feedback, personalized affirmations, and layout.
 
 
