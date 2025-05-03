@@ -8,7 +8,7 @@
 ## Personal Projects
 
 ### [Stall Street Journal](https://github.com/SYLE61/Stall-Street-Journal)  
-**Full-stack web app** (Flask, MongoDB, JavaScript, Tailwind CSS, Docker, Google Maps API)  
+**Full-stack web app** (Flask, MongoDB, JavaScript, Docker, Google Maps API)  
 → An anonymous campus restroom review platform with dynamic maps, user ratings, and gamified user engagement.
 
 ### [User Embedding Clustering Analysis](https://github.com/SYLE61/User-Embedding-Clustering-Analysis)  
@@ -21,6 +21,6 @@
 
 ### [FeelWrite](https://github.com/SYLE61/FeelWrite)  
 **Creative journaling tool**  
-→ A machine-learning-powered app that analyzes journal entries to generate mood-based feedback and personalized affirmations.
+→ A machine-learning-powered app that analyzes journal entries to generate mood-based feedback, personalized affirmations, and layout.
 
 
